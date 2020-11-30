@@ -1,8 +1,5 @@
 # project_0_goals
-Basic react app. Helps in understanding react:
-    * components
-    * props 
-    * state.
+Basic react app. Understanding react components, props and state.
 
 ## Getting Started with Create React App
 
