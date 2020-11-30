@@ -7,7 +7,7 @@ const App = () => {
   const [courseGoals, setCourseGoals] = useState([
     {id: 'cg1', text:'Finish the Course'},
     {id: 'cg2', text:'Learn all about the Course Main Topic'},
-    {id: 'cg3', text:'Help others in Q &amp; A'}
+    {id: 'cg3', text:'Help others in Q & A'}
   ]);
 
   const addNewGoalHandler = (newGoal) => {
